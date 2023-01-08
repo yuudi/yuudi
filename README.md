@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuudi&cache_seconds=86400&layout=compact)](https://github.com/yuudi)
 
-My GPG key ID: C65E DA73 91AE 8658
+My GPG key ID: [C65E DA73 91AE 8658](https://gist.githubusercontent.com/yuudi/5e5cc1f47a7f068c2fa58da1eb3e9880/raw/d915c5a4ecc06876960eb126659e51d253ef898d/yuudi_public.asc)
